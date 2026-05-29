@@ -43,7 +43,7 @@ using namespace std;
             }
            
            cout << "Case Converted string is : "<<str<<" " << " ";
-
+           
 
             return 0;
         }
