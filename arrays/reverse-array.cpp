@@ -10,7 +10,7 @@ void ReverseArray(int arr[],int size){
 }
 cout << "Array before reversal is : " << " ";
   for(int i = 0; i < size; i++){
-    cout << brr[i] << " ";
+    cout << brr[i] << " "; 
 }
 
 

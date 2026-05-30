@@ -30,6 +30,7 @@ using namespace std;
 
 
         int main(){
+            
             string str;
             cout << "Enter string : " << " ";
             getline(cin,str); // cin dont consider text after space so getline(cin,str) is used
